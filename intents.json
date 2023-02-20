@@ -1,0 +1,294 @@
+{
+  "intents": [
+
+    {
+      "tag": "is there ",
+      "patterns": [
+        "Is there hostel facility available in BHU ?","Is there sports complex facility available in BHU","Is there lab facility available in BHU",
+        "Is there library facility available in BHU", "Is there mess facility available in BHU","Is there canteen facility available in BHU",
+        "Is there cafeteria available in BHU","Is there any temple available in BHU", "Is there gym facility available in BHU","Is there hospital facility available in BHU","Is there medical facility available in BHU",
+        "Is there wi-fi facility available in BHU", "Is there swimming pool available in BHU" 
+      ],
+      "responses": [
+        "Yes"
+      ]
+    },
+    {
+      "tag": "Facilities",
+      "patterns": [
+        "What all facilities are available in BHU","facilities available in BHU","BHU facilities",
+        "facilities","facility","which facilities are available in BHU","what kind of facilities are available in BHU",
+        "Dean of students of BHU","list of facilities in BHU"
+      ],
+      "responses": [
+        "Sports Complex, Labs, Library, Hostel, Mess, Canteen, Temple, Cafeteria, Moot Court(law), Gym, Hospital/Medical Facilities, Wi-Fi Campus, Shuttle service, Auditorium, Music Room, Dance Room, Convenience Store, Swimming Pool"
+      ]
+    },
+    {
+      "tag": "Hostel",
+      "patterns": [
+        "Hostel", "boys hostel in BHU", "Girls hostel bhu","what are the facilities avilable in bhu hostels",
+        "Hostel facility in BHU", "hostel for international students", "hostel for girls in bhu", 
+        "Is there hostel facility in BHU ?", "BHU hostels"
+      ],
+      "responses": [
+        "BHU has separate accommodation for boys and girls.It has 41 boys hostel and 21 girls hostel.There is a separate hostel facility for international students.All the hostels have basic amenities like water purifiers, common room, recreation room, mess, TV, laundry services, security and surveillance system etc."
+      ]
+    },
+    {
+      "tag": "Dean of students",
+      "patterns": [
+        "Who is the Dean of students of BHU",
+        "Dean of students",
+        "Dean of students of BHU"
+      ],
+      "responses": [
+        "Prof. Anupam Kumar Nema,    (O) 230-7231, 6703622,2360943"
+      ]
+    },
+    {
+      "tag": "controller of examination",
+      "patterns": [
+        "Who is the controller of examination of BHU",
+        "controller of examination",
+        "controller of examination of BHU"
+      ],
+      "responses": [
+        "Prof. S. K. Upadhyay,  Email:controller@bhu.ac.in,    (O) 2368466, 2307255, 7256, (O) 6702716, 2711,    Fax : 2368418,   (R) 2575304 ,2308001 "
+      ]
+    },
+    {
+      "tag": "registrar",
+      "patterns": [
+        "Who is the registrar of BHU",
+        "Registrar",
+        "Registrar of BHU"
+      ],
+      "responses": [
+        "Prof. Arun Kumar Singh,  (O) 2307222, 2368558, (O) 6701673 Fax : 2369425"
+      ]
+    },
+    {
+      "tag": "vice chancellor",
+      "patterns": [
+        "Who is the vice chancellor of BHU","VC","who is the vc of bhu",
+        "Vice Chancellor",
+        "Vice Chancellor of BHU",
+        "VC of BHU"
+      ],
+      "responses": [
+        "Prof. Sudhir K. Jain,     Telephone: +91(542) 2368938 (Off); 2368339 (Res),     Fax:  +91(542)2369100 (Off); 2369951 (Res),    Email: vc@bhu.ac.in "     
+      ]
+    },
+    {
+      "tag": "chancellor",
+      "patterns": [
+        "Who is the chancellor of BHU",
+        "Chancellor",
+        "Chancellor of BHU"
+      ],
+      "responses": [
+        "Justice Giridhar Malviya"
+      ]
+    },
+    {
+      "tag": "schools",
+      "patterns": [
+        "Schools",
+        "Schools of BHU",
+        "Schools affiliated to BHU",
+        "BHU schools"
+      ],
+      "responses": [
+        "Central Hindu Boys,  Central Hindu Girls,  Ranvir Sanskrit Vidyalaya "
+      ]
+    },
+    {
+      "tag": "affiliated colleges ",
+      "patterns": [
+        "Affiliated Colleges",
+        "Affiliated colleges to BHU",
+        "colleges of BHU"
+      ],
+      "responses": [
+        "Arya Mahila P.G. College,  D.A.V Degree College,  Vasant Kanya Mahavidyalaya kamachha, Vasant College for Women"
+      ]
+    },
+    {
+      "tag": "Faculties",
+      "patterns": [
+        "Faculties",
+        "Faculties in BHU",
+        "How many Faculties in BHU ?"
+      ],
+      "responses": [
+        "Faculty of-   Arts, Commerce, Education, Law, Performing Arts, Social Sciences, Sanskrit Vidya Dharma Vijnan, Visual Arts"
+      ]
+    },
+    {
+      "tag": "Institutes",
+      "patterns": [
+        "Institutes",
+        "Institutes in BHU",
+        "How many Institute in BHU ?"
+      ],
+      "responses": [
+        "Institute of-   Science, Medical Sciences, Agricultural Sciences, Management Studies, Enviornment and Sustainable Development,  Indian Institute of Technology(BHU)"
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "Courses",
+        "Courses in at BHU",
+        "Which courses does BHU offer",
+        "List of Courses"
+      ],
+      "responses": [
+        "UG Programs,   PG Programs,   Special Courses(PG),   Research Program(Ph.D),   D.Sc., D.Litt.,LL.D. & Vachaspati,    UG/PG Diploma Programs,   Deputation and Admission units"
+      ]
+    },
+    {
+      "tag": "How to reach",
+      "patterns": [
+        "How to reach ?",
+        "How to reach BHU",
+        "How to go to BHU ?",
+        "Transpotation around BHU",
+        "How to explore BHU"
+      ],
+      "responses": [
+        "Varanasi is easily accessible from all parts of the country. Very well connected by road, rail and air, the City of. offers convenient and comfortable travelling options to and from other cities of India. TOURIST OFFICE Regional Tourist Office/ Tourist Bunglow , Parade Kothi , Opposite Railway Station Phone : (542) 2208413, 2206638.     AIR Indian Airlines flies to Babatpur airport which is 22 km. from Varanasi and 30 km. from Sarnath There is a. direct, daily flight connection between Varanasi and New Delhi. It also connects Varanasi to Delhi, Agra,. Khajuraho, Calcutta, Mumbai, Lucknow and Bhuvaneshwar.    Varanasi is an important and major rail junction. The city is served by trains from all metros and major cities across the country. New Delhi, mumbai, Calcutta, Chennai, Gwalior, Meerut, Indore, Guwahati, Allahbad, Lucknow, Dehradun… the city has direct rail connections. Some important trains from Varanasi station are Kashi Vishwanath Express (Varanasi-Delhi), Shramjivi Express (Patna- Varanasi-Delhi), Farakka Express (MaldaTown-Varanasi-Bhiwani), Mahanagri Express (Varanasi-Mumbai), Pawan Express (Varanasi-Mumbai), Sabermati Express (Varanasi-Ahamedabad), Ganga-Kaveri Express (Varanasi-Chennai), Purva Express (Howrah- Varanasi-Delhi), Himgiri Express (Jammu-Varanasi-Howrah), Siyaldah Express (Varanasi-Jammu Tawi), Marudhar Express (Varanasi / Agra /Jaipur).From Mughal Sarai Station: (16 Km. from Varanasi) Train from Mughal Sarai Station are Rajdhani Express (Howrah – Mughal Sarai- Delhi), Toofan Express (Howrah- Mughal Sarai- Delhi), North East Super Fast Express (Delhi –Mughal Sarai-Guwahati), Magadh Express (Delhi- Mughal Sarai – Patna).         Varanasi, on (National Highway) NH2 from Calcutta to Delhi, NH7 to Kanya Kumari and NH29 to GoraKhpur is connected literally to the rest of the country by good motorable, all – weather roads. Some important road distances are: Agra 565 km., Allahabad 128 km., Bhopal 791 km., Bodhgaya 240 km., Kanpur 330 km., Khajuraho 405 km., Lucknow 286 km., patna 246 km., Sarnath 10 km., Lumbini (Napal) 386 km., Kushi Nagar 250 km. (via Gorkhpur), UPSRTC Bus Stand, Sher Shah Suri Marg, Golgadda Bus Stand.       Private taxis are available from travel agencies, hotels, etc., rickshaws, cycle rickshaws and three wheelers are also readily available. But on some routes specially the old Varanasi areas of temples and markets, one way traffic is maintained. And on that routes rikshaws or big vehicles are not permitted. Tourist should aware on hiring private vehicles, usually cars/taxis/four wheelers are charged for 4,8,12 hours or for full day. The tourist are advised to fix-up the fair before travelling.   Left luggage facility is available at both the Varanasi and Mughalsarai railway stations(24 Hours)"
+      ]
+    },
+    {
+      "tag": "Campuses",
+      "patterns": [
+        "BHU campuses",
+        "Campuses",
+        "How many campus in BHU ?",
+        "How many campus does BHU have?",
+        "Campuses of BHU"
+      ],
+      "responses": [
+        "BHU Main Campus (Varanasi U.P)   and  Rajiv Gandhi South Campus (RGSC)- (Barkachha, Mirjapur U.P"
+      ]
+    },
+    {
+      "tag": "BHU map",
+      "patterns": [
+        "BHU map",
+        "map",
+        "Map of BHU"
+      ],
+      "responses": [
+        "https://www.bhu.ac.in/aboutus/map.php"
+      ]
+    },
+    {
+      "tag": "objectives",
+      "patterns": [
+        "What are the objectives of BHU",
+        "Objective",
+        "Objective of BHU",
+        "Goal of BHU",
+        "What was the motto of BHU"
+        
+      ],
+      "responses": [
+        "(i) To promote the study of the Hindu Shastras and of Sanskrit literature generally as a means of preserving and popularizing for the benefit of the Hindus in particular and of the world at large in general, the best thought and culture of the Hindus and all that was good and great in the ancient civilization of India;      (ii) to promote learning and research generally in Arts and Sciences in all branches;       (iii) to advance and diffuse such scientific, technical and professional knowledge, combined with the necessary practical training as is best calculated to help in promoting indigenous industries and in developing the material resources of the country; and      (iv) to promote the building up of character in youth by religion and ethics as an integral part of education." 
+      ]
+    },
+    {
+      "tag": "founder",
+      "patterns": [
+        "Who is was the founder of BHU",
+        "Founder of BHU",
+        "Founder",
+        "Who established BHU",
+        "When BHU was established",
+        "In which year BHU was established",
+        "Where is BHU",
+        "Location of BHU",
+        "Where BHU is situated"
+      ],
+      "responses": [
+        "BHU was founded by the great nationalist leader, Pandit Madan Mohan Malviya, in 1916.  It is situated in the holy city of Varanasi."
+      ]
+    },
+    {
+      "tag": "about bhu",
+      "patterns": [
+        "About BHU",
+        "Tell me about BHU",
+        "Banaras Hindu University",
+        "Kashi Hindu Vishwavidyalaya",
+        "History of BHU",
+        "History","About","BHU"
+      ],
+      "responses": [
+        "Banaras Hindu University is an internationally reputed temple of learning, situated in the holy city of Varanasi. This Creative and innovative university was founded by the great nationalist leader, Pandit Madan Mohan Malviya, in 1916 with cooperation of great personalities like Dr Annie Besant, who viewed it as the University of India. Banaras Hindu University was created under the Parliamentary legislation - B.H.U. Act 1915. The area of the main campus of this premiere Central University is 1300 acres, having well maintained roads, extensive greenery, a temple, an air strip and buildings which are an architectural delight. The Air Field of the campus was started for military training for flying during the second world war. Another campus of the university at Barkachha , in Mirzapur district, covering an area of 2700 acres is coming up. The university comprises 3 Institutes, 14 Faculties 140 Departments, 4 Inter displinary Centers a constituent college for women's and 3 Constituents Schools, spanning a vast range of subjects pertaining to all branches of humanities,social science,technology, medicine ,science, fine arts and performing arts. It has 6 centres of Advanced Studies, 10 Departments under Special Assistance Programme and a large number of specialized Research Centers.Four Degree Colleges of the city are affiliated to the University. Bharat Kala Bhavan, the reputed museum of the university, is a treasure trove of rare collections. The 927 bed hospital of the University is equipped with all the modern a menities. The university provides a wide range of facilities for sport and hobbies, has large playgrounds, a big auditorium, a flying club and many auxiliary services and units like Printing Press, Publication Cell,Fruit Preservation Center, Subsidized Canteens, Employment and Information Bureau, Security etc. The University family consists of about 15000 students belonging to all streams of life, castes and religions and races, about 1700 teachers, and nearly 8000 non-teaching staff A large number of students from foreign countries like the U.S.A, the countries of Europe, Asia, Middle East, Africa etc., come to study here. The university has taken a leadership role in promoting new ideas, the spirit of integration of the world, and cultivation of intellect and culture. Banaras Hindu University is small Virtually the universe in microcosm"
+      ]
+    },
+    {
+      "tag": "student portal",
+      "patterns": [
+        "BHU student portal website link",
+        "BHU student portal website",
+        "Student portal Website",
+        "What is BHU student portal link",
+        "Tell me BHU student portal website link",
+        "Student portal"
+      ],
+      "responses": [
+        "http://bhuonline.in/"
+      ]
+    },
+    {
+      "tag": "website",
+      "patterns": [
+        "BHU website link",
+        "BHU Official website",
+        "Website",
+        "What is BHU website link",
+        "Tell me BHU website link"
+      ],
+      "responses": [
+        "https://www.bhu.ac.in/"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    }
+    
+  ]
+}
